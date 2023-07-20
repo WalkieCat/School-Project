@@ -1,0 +1,17 @@
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\bin\Debug\net6.0-windows\UserData.exe
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\bin\Debug\net6.0-windows\UserData.deps.json
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\bin\Debug\net6.0-windows\UserData.runtimeconfig.json
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\bin\Debug\net6.0-windows\UserData.dll
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\bin\Debug\net6.0-windows\UserData.pdb
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\obj\Debug\net6.0-windows\UserData.csproj.AssemblyReference.cache
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\obj\Debug\net6.0-windows\UserData.Form1.resources
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\obj\Debug\net6.0-windows\UserData.csproj.GenerateResource.cache
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\obj\Debug\net6.0-windows\UserData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\obj\Debug\net6.0-windows\UserData.AssemblyInfoInputs.cache
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\obj\Debug\net6.0-windows\UserData.AssemblyInfo.cs
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\obj\Debug\net6.0-windows\UserData.csproj.CoreCompileInputs.cache
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\obj\Debug\net6.0-windows\UserData.dll
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\obj\Debug\net6.0-windows\refint\UserData.dll
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\obj\Debug\net6.0-windows\UserData.pdb
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\obj\Debug\net6.0-windows\UserData.genruntimeconfig.cache
+C:\Users\Huy\source\repos\Perfectly-Impenetrable-Security-Service\UserData\obj\Debug\net6.0-windows\ref\UserData.dll
